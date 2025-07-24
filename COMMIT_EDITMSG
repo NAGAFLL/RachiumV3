@@ -1,0 +1,10 @@
+Assistant checkpoint: Update Eaglercraft download link to save file
+
+Assistant generated file changes:
+- public/games.html: Make Eaglercraft link download the HTML file
+
+---
+
+User prompt:
+
+i mean download the file
