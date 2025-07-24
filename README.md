@@ -1,27 +1,3 @@
-# tProxy v2
-## Whats new in v2?
-- New looks  
-- Updated links to my pages  
-- Stargazers page, free promotion ig  
-- You no longer have to provide http or https protocol, It just guesses it so you can just type example.com  
-- It now redirects instead of using an iframe, that annoying URL bar was in the way
-## Upcoming
-- Cloaking  
-- Built-in <a href="https://github.com/SevenworksDev/UnblockedHardest">UnblockedHardest</a>  
-- Deploy tProxy buttons  
-- Better error pages  
-- Site compatibility list  
-- Use better and faster backend
-- Exploits page
-- Alert user if tProxy gets blocked after 5 fetch() requests to the main page
-## Setup
-Use npm to setup tProxy
-```
-npm i
-npm start
-```
-or use yarn, yarn is better tbh
-```
-yarn
-node .
-```
+#Rachium V3
+
+  Rachium is a proxy with the same backend as "Tproxy" https://github.com/SevenworksDev/tProxy. This is the link to the Tproxy repo if you want to check it out. Me and my teenage friend mad the front end in HTML and CSS. We also improved the backend and added some JS for better functionality.
